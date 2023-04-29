@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/InvestMaster/static/css/main.5625aa8f.css",
+    "main.js": "/InvestMaster/static/js/main.887c96c7.js",
+    "static/media/InvestMasterLogo.png": "/InvestMaster/static/media/InvestMasterLogo.f295aec10dd718054236.png",
+    "index.html": "/InvestMaster/index.html",
+    "main.5625aa8f.css.map": "/InvestMaster/static/css/main.5625aa8f.css.map",
+    "main.887c96c7.js.map": "/InvestMaster/static/js/main.887c96c7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5625aa8f.css",
+    "static/js/main.887c96c7.js"
+  ]
+}
